@@ -18,4 +18,3 @@
 🎄 **Others**
 
 ![](https://github-readme-stats.vercel.app/api?username=tangyuan0821&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=00000000&disable_animations=true&border_radius=9&rank_icon=percentile&hide=stars&show=reviews%2Cdiscussions_started%2Cdiscussions_answered#gh-light-mode-only)<br>
-![](https://count.getloli.com/@tangyuan0821-new?name=tangyuan0821-new&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
