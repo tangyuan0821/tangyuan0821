@@ -11,10 +11,9 @@
 
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
 🎄 **Others**
 
-![](https://github-readme-stats-weld-phi-22.vercel.app/api?username=tangyuan0821&show_icons=true)
+![tangyuan0821's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tangyuan0821&show_icons=true&theme=dark&border_color=0000&hide=prs)
